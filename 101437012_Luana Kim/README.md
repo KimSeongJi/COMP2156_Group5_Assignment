@@ -1,8 +1,8 @@
-#### Group 5 Assignment
+## Group 5 Assignment
 
 ### Luana Kim - 101437012
 
-## Key Features
+#### Key Features
 
 - .github/workflows: github action
 - 101437012_Luana Kim: directory for files
