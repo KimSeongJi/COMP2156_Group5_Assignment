@@ -1,0 +1,11 @@
+Content for Studentid_devops.txt
+
+Details for COMP 2156
+
+"DevOps For System Administration" is the official title of the course taught by Priteshkumar Patel.
+
+
+The processes, guidelines, and best practices that a DevOps engineer implements in the workplace to boost output are covered in this course.
+This encompasses the DevOps tool, cloud database utilization, effective code management, and many data forms and types, such as JavaScript.
+
+Zoom is mostly used for online lectures and labs.

@@ -1,0 +1,11 @@
+Content for Studentid_sdlc.txt
+
+Understanding DevOps engineering is crucial for the software development cycle.
+
+The phases of designing, developing, testing, and deploying software applications or systems are included in the software development cycle, often known as the software development process or software development life cycle (SDLC).
+It can be broken down into multiple phases, such as Planning, Analysis, Design, Implementation, Testing, Deployment, and Maintenance, depending on the approach used.
+
+Understanding the software development cycle requires knowledge of DevOps engineering.
+
+In addition to valuing automation and CI/CD, DevOps promotes collaboration across teams such as development and operations.
+These domains result in a software development and distribution cycle that is swift and effective.
